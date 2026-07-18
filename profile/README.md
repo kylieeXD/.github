@@ -19,6 +19,8 @@ Status:  Learning something new
 
 <img align="right" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
+</div>
+
 <br>
 
 # **📫 Contacts**
