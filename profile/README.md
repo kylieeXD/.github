@@ -17,9 +17,12 @@ Editor:   VS Code / Neovim
 Status:   Learning something new
 ```
 
-<img align="center" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
-
 </div>
+
+<br>
+
+# 📊 GitHub Stats
+<img align="center" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
 <br>
 
