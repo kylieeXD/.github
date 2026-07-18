@@ -17,16 +17,17 @@ Status:  Learning something new
 Hobbies:  Coding, Singing, Music
 ```
 
-<br>
-
 ### 📊 Stats
 
 <img align="right" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
-<br><br>
+<br>
 
-### 🔗 Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kylieeXD)
-
+# **📫 Contacts**
+<a>**Please Contact me on Telegram for a quick response** [khayloaf](https://t.me/kylieeXD)
+<img align="left" width="100" src="https://github.com/user-attachments/assets/d34d2262-b22f-4ffd-8a3f-42ffcc2c1dcf">
+If you didn't get response by me, so don't worry. I'll try to reply your response.
+</a>
 </div>
+
+<br>
