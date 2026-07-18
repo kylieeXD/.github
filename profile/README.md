@@ -17,7 +17,7 @@ Editor:   VS Code / Neovim
 Status:   Learning something new
 ```
 
-<img src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
+<img align="center" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
 </div>
 
