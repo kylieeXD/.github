@@ -1,5 +1,3 @@
-<div align="center">
-
 ```zsh
 ➜  ~ neofetch
 ```
@@ -7,23 +5,23 @@
 ```yaml
 khayloaf@userdebug
 ------------------------------
-OS:        CachyOS
-Shell:     fish 4.8.0
-Role:      Vocational School
-Stack:     Python, GLSL, C
-Editor:    VS Code / Neovim
-Status:    Learning something new
-Hobbies:   Coding, Singing, Music
+OS:  CachyOS
+Shell:  fish 4.8.0
+CPU:  Intel i7-2640M (4) @ 3.500GHz
+GPU:  Intel 2nd Generation
+Memory:  2878MiB / 3823MiB
+Role:  Vocational School
+Stack:  Python, GLSL, C
+Editor:  VS Code / Neovim
+Status:  Learning something new
+Hobbies:  Coding, Singing, Music
 ```
 
 <br>
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kylieeXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylieeXD&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kylieeXD&theme=tokyonight&hide_border=true" width="49%" />
+<img align="right" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
 <br><br>
 
