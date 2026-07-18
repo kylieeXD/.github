@@ -2,6 +2,8 @@
 ➜  ~ neofetch
 ```
 
+<img align="left" src="img/cachy.png" width="210px"/> 
+
 ```csharp
 khayloaf@userdebug
 ------------------------------
