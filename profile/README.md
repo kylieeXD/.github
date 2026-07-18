@@ -17,8 +17,6 @@ Status:  Learning something new
 Hobbies:  Coding, Singing, Music
 ```
 
-### 📊 Stats
-
 <img align="right" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
 <br>
