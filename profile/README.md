@@ -2,7 +2,7 @@
 ➜  ~ neofetch
 ```
 
-```yaml
+```csharp
 khayloaf@userdebug
 ------------------------------
 OS:  CachyOS
