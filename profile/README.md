@@ -2,22 +2,22 @@
 ➜  ~ neofetch
 ```
 
-<img align="left" src="img/eva.png" width="210px"/> 
+<img align="left" src="img/eva.png" width="210px"/>
 
 ```csharp
 khayloaf@userdebug
 ------------------------------
-OS:  CachyOS
-Shell:  fish 4.8.0
-CPU:  Intel i7-2640M (4) @ 3.500GHz
-GPU:  Intel 2nd Generation
-Memory:  2878MiB / 3823MiB
-Stack:  Python, GLSL, C
-Editor:  VS Code / Neovim
-Status:  Learning something new
+OS:       CachyOS
+Shell:    fish 4.8.0
+CPU:      Intel i7-2640M (4) @ 3.500GHz
+GPU:      Intel 2nd Generation
+Memory:   2878MiB / 3823MiB
+Stack:    Python, GLSL, C
+Editor:   VS Code / Neovim
+Status:   Learning something new
 ```
 
-<img align="right" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
+<img src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
 
 </div>
 
