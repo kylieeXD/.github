@@ -21,11 +21,6 @@ Status:   Learning something new
 
 <br>
 
-# 📊 GitHub Stats
-<img align="center" src="https://gh-readme-profile.vercel.app/api?username=kylieeXD&theme=transparent" />
-
-<br>
-
 # **📫 Contacts**
 <a>**Please Contact me on Telegram for a quick response** [khayloaf](https://t.me/kylieeXD)
 <img align="left" width="100" src="https://github.com/user-attachments/assets/d34d2262-b22f-4ffd-8a3f-42ffcc2c1dcf">
